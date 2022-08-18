@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "19.09.2003"; // Дата рождения
-var fullname = "Тертицький Михайло Ігорович" // ФИО
+var birthdate = "05.11.2003"; // Дата рождения
+var fullname = "Вдасюк Поліна Антонівна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
